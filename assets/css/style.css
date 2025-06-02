@@ -756,7 +756,10 @@ main {
 
 .clients-item img:hover { filter: grayscale(0); }
 
-
+.current-comp {
+	width:200px;
+	height:200px;
+}
 
 
 
